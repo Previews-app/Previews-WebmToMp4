@@ -15,5 +15,4 @@
 
 # Notes:
 * Currently only supports Windows.
-* Currently converts files at 30 FPS (Previews webms are recorded at 60 FPS).
-* Feel free to make pull requests to improve this converter.
+* Currently converts files at 30 FPS (Previews webms are set to record at 60 FPS h264) due to inconsistencies with the browser MediaRecorder api.
