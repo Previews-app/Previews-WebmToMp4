@@ -1,5 +1,7 @@
 # Previews Webm To Mp4 Converter
 
+- July 17, 2023 - Updated to convert files to true mp4s that you can use in video editors and socials.
+
 # Install
 1. Download **[the project](https://github.com/Previews-app/Previews-WebmToMp4/archive/refs/heads/master.zip)**.
 2. Extract the zip somewhere.
